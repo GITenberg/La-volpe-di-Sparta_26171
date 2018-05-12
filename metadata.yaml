@@ -1,0 +1,31 @@
+_repo: La-volpe-di-Sparta_26171
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zùccoli, Luciano
+    aliases:
+    - Ingenheim, Luciano, conte di
+    - Zuccoli, Luciano
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '31846'
+    url: http://www.gutenberg.org/2009/agents/31846
+    wikipedia: http://it.wikipedia.org/wiki/Luciano_Zuccoli
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26171'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 20th century'
+title: La volpe di Sparta
+url: http://www.gutenberg.org/ebooks/26171
